@@ -23,7 +23,7 @@ This is using Gowin
 
 Any advice for common problems or issues.
 ```
-* Ref 1. Found the cga controller source code from this forum. Seems to work well
+* Ref 1. Found the vga controller source code from this forum. Seems to work well
 ```
 
 ## Authors

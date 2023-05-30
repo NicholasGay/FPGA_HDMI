@@ -119,7 +119,7 @@ begin
 
 if rising_edge(CLK_27M) then
     if(RSTN = '0') then 
-        version := x"A";
+        version := x"C";
         qLED3 <= version(2);
         qLED2 <= version(1);
         qLED1 <= version(0);

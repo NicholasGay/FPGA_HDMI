@@ -1,0 +1,61 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.v'
+Analyzing VHDL file 'C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd'
+Analyzing entity '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing architecture '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing entity '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing architecture '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing entity '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing architecture '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing entity '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing architecture '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing entity '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing architecture '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Analyzing VHDL file 'C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\gowin_rpll\gowin_rpll.vhd'
+Analyzing entity 'gowin_rpll'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\gowin_rpll\gowin_rpll.vhd":12)
+Analyzing architecture 'behavioral'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\gowin_rpll\gowin_rpll.vhd":19)
+Analyzing VHDL file 'C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\hw_image_generator.vhd'
+Analyzing entity 'hw_image_generator'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\hw_image_generator.vhd":26)
+Analyzing architecture 'behavior'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\hw_image_generator.vhd":39)
+Analyzing VHDL file 'C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\vga_controller.vhd'
+Analyzing entity 'vga_controller'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\vga_controller.vhd":28)
+Analyzing architecture 'behavior'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\vga_controller.vhd":52)
+Analyzing VHDL file 'C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\top.vhd'
+Analyzing entity 'top'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\top.vhd":11)
+Analyzing architecture 'behavioural'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\top.vhd":29)
+Compiling module '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.v":0)
+Compiling module '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.v":0)
+Compiling module '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.v":0)
+Compiling module '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.v":0)
+Compiling module '**'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.v":0)
+Processing '**(**)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Processing '**(**)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Processing '**(**)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Processing '**(**)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Processing '**(**)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+Processing 'Gowin_rPLL(Behavioral)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\gowin_rpll\gowin_rpll.vhd":12)
+Processing 'hw_image_generator(behavior)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\hw_image_generator.vhd":26)
+Processing 'vga_controller(behavior)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\vga_controller.vhd":28)
+Processing 'top(behavioural)'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\top.vhd":11)
+NOTE  (EX0101) : Current top module is "top"
+WARN  (EX0206) : Instance "rpll_inst" 's parameter "DEVICE" value invalid("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\dvi_tx\dvi_tx.vhd":0)
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\impl\gwsynthesis\hDMI.vg" completed
+[100%] Generate report file "C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\impl\gwsynthesis\hDMI_syn.rpt.html" completed
+GowinSynthesis finish

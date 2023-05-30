@@ -9,7 +9,7 @@
   "SubInsts" : [
    {
     "InstFile" : "C:/Users/gay_n/Documents/FPGA_PROJECTS/HDMI_NIC/hDMI/FPGA_HDMI/src/top.vhd",
-    "InstLine" : 94,
+    "InstLine" : 101,
     "InstName" : "u_dvi",
     "ModuleFile" : "C:/Users/gay_n/Documents/FPGA_PROJECTS/HDMI_NIC/hDMI/FPGA_HDMI/src/dvi_tx/dvi_tx.vhd",
     "ModuleLine" : 1,
@@ -17,7 +17,7 @@
    },
    {
     "InstFile" : "C:/Users/gay_n/Documents/FPGA_PROJECTS/HDMI_NIC/hDMI/FPGA_HDMI/src/top.vhd",
-    "InstLine" : 64,
+    "InstLine" : 66,
     "InstName" : "U_VGA_CONTROLLER",
     "ModuleFile" : "C:/Users/gay_n/Documents/FPGA_PROJECTS/HDMI_NIC/hDMI/FPGA_HDMI/src/vga_controller.vhd",
     "ModuleLine" : 28,
@@ -25,7 +25,7 @@
    },
    {
     "InstFile" : "C:/Users/gay_n/Documents/FPGA_PROJECTS/HDMI_NIC/hDMI/FPGA_HDMI/src/top.vhd",
-    "InstLine" : 77,
+    "InstLine" : 79,
     "InstName" : "U_HW_IMAGE_GEN",
     "ModuleFile" : "C:/Users/gay_n/Documents/FPGA_PROJECTS/HDMI_NIC/hDMI/FPGA_HDMI/src/hw_image_generator.vhd",
     "ModuleLine" : 26,
@@ -33,7 +33,7 @@
    },
    {
     "InstFile" : "C:/Users/gay_n/Documents/FPGA_PROJECTS/HDMI_NIC/hDMI/FPGA_HDMI/src/top.vhd",
-    "InstLine" : 87,
+    "InstLine" : 94,
     "InstName" : "u_clk_gen",
     "ModuleFile" : "C:/Users/gay_n/Documents/FPGA_PROJECTS/HDMI_NIC/hDMI/FPGA_HDMI/src/gowin_rpll/gowin_rpll.vhd",
     "ModuleLine" : 12,

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="top" Register="74" Alu="68" Lut="221">
+<Module name="top" Register="52" Alu="68" Lut="221">
     <SubModule name="U_VGA_CONTROLLER" Register="36" Lut="52"/>
-    <SubModule name="U_HW_IMAGE_GEN" Lut="6"/>
+    <SubModule name="U_HW_IMAGE_GEN" Register="4" Lut="6"/>
     <SubModule name="u_clk_gen"/>
 </Module>

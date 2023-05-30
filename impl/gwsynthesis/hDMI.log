@@ -17,7 +17,7 @@ Analyzing entity 'gowin_rpll'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\h
 Analyzing architecture 'behavioral'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\gowin_rpll\gowin_rpll.vhd":19)
 Analyzing VHDL file 'C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\hw_image_generator.vhd'
 Analyzing entity 'hw_image_generator'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\hw_image_generator.vhd":26)
-Analyzing architecture 'behavior'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\hw_image_generator.vhd":39)
+Analyzing architecture 'behavior'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\hw_image_generator.vhd":45)
 Analyzing VHDL file 'C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\vga_controller.vhd'
 Analyzing entity 'vga_controller'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\vga_controller.vhd":28)
 Analyzing architecture 'behavior'("C:\Users\gay_n\Documents\FPGA_PROJECTS\HDMI_NIC\hDMI\FPGA_HDMI\src\vga_controller.vhd":52)

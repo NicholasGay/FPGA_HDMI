@@ -44,6 +44,8 @@ SIGNAL row_vga : INTEGER;
 SIGNAL n_blank_vga : STD_LOGIC;
 SIGNAL n_sync_vga : STD_LOGIC;
 
+SIGNAL v_sync_o : STD_LOGIC;
+SIGNAL h_sync_o : STD_LOGIC;
 
 SIGNAL red_o : STD_LOGIC_VECTOR(7 DOWNTO 0);
 SIGNAL blue_o : STD_LOGIC_VECTOR(7 DOWNTO 0);
@@ -76,9 +78,14 @@ port map(
 
 U_HW_IMAGE_GEN : entity work.hw_image_generator
 PORT MAP(
+    clk => clk_px,
     disp_ena => disp_ena_vga,  --display enable ('1' = display time, '0' = blanking time)
     row      => row_vga,    --row pixel coordinate
     column   => column_vga, --column pixel coordinate
+    h_sync_in => h_sync_vga,
+    v_sync_in => v_sync_vga,
+    h_sync_o => h_sync_o,
+    v_sync_o => v_sync_o,
     red      => red_o,  --red magnitude output to DAC
     green    => green_o, --green magnitude output to DAC
     blue     => blue_o--blue magnitude output to DAC
@@ -95,8 +102,8 @@ u_dvi: entity work.DVI_TX_Top
 	port map (
 		I_rst_n => RSTN,
 		I_rgb_clk => clk_px,
-		I_rgb_vs => v_sync_vga,
-		I_rgb_hs => h_sync_vga,
+		I_rgb_vs => v_sync_o,
+		I_rgb_hs => h_sync_o,
 		I_rgb_de => disp_ena_vga,
 		I_rgb_r => red_o,
 		I_rgb_g => green_o,
